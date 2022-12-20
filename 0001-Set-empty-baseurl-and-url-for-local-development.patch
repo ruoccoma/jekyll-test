@@ -1,0 +1,27 @@
+From 996e3a659813c56b406860f87c211b066b249112 Mon Sep 17 00:00:00 2001
+From: Espen Haugsdal <espen.haugsdal@gmail.com>
+Date: Tue, 20 Dec 2022 14:41:12 +0100
+Subject: [PATCH] Set empty baseurl and url for local development
+
+---
+ docs/_config.yml | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/docs/_config.yml b/docs/_config.yml
+index 39fa4a0..a2e770b 100644
+--- a/docs/_config.yml
++++ b/docs/_config.yml
+@@ -10,8 +10,8 @@ title: ML4ITS Machine Learning for Irregular Time Series
+ email: massimiliano.ruocco@ntnu.no
+ description: Machine Learning for Irregular Time Series
+ 
+-baseurl: "/jekyll-test"
+-url: "https://espenha.github.io"
++baseurl: ""
++url: ""
+ 
+ include:
+   - .htaccess
+-- 
+2.38.1
+
