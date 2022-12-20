@@ -8,10 +8,10 @@
 # Site settings
 title: ML4ITS Machine Learning for Irregular Time Series
 email: massimiliano.ruocco@ntnu.no
-description: > # this means to ignore newlines until "baseurl:"
-  Machine Learning for Irregular Time Series
-baseurl: ""
-url: ""
+description: Machine Learning for Irregular Time Series
+
+baseurl: "/jekyll-test"
+url: "https://espenha.github.io"
 
 include:
   - .htaccess
