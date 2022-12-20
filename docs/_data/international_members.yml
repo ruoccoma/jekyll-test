@@ -1,0 +1,20 @@
+- name: Antonio Ortega 
+  photo: antonio.jpeg
+  info: Professor (USC, University of Southern California)
+  email: aortega@usc.edu
+  number_educ: 0
+  education1: Ph.D, Computer Science Department, NTNU
+
+- name: Claudio Gallicchio 
+  photo: claudio.jpg
+  info: Assistant Professor (University of Pisa)
+  email: gallicch@di.unipi.it
+  number_educ: 0
+  education1: Ph.D, Statistical Department, NTNU
+
+- name: Daniel Simpson
+  photo: daniel.jpg
+  info: Associate Professor (University of Toronto)
+  email: simpson@utstat.toronto.edu
+  number_educ: 0
+  education1: PhD XXX, University of Napoli
