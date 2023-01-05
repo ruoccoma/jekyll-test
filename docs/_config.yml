@@ -10,8 +10,8 @@ title: ML4ITS Machine Learning for Irregular Time Series
 email: massimiliano.ruocco@ntnu.no
 description: Machine Learning for Irregular Time Series
 
-baseurl: "/jekyll-test"
-url: "https://espenha.github.io"
+baseurl: ""
+url: ""
 
 include:
   - .htaccess
